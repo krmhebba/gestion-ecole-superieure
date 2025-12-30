@@ -39,12 +39,5 @@ Application complète de gestion universitaire développée en langage C. Ce pro
 * **fichiers.c/h :** Gestion des entrées/sorties fichiers (I/O).
 * **logs.c/h :** Gestion de l'historique des événements système.
 
-## Installation
-1. Cloner le dépôt.
-2. Compiler tous les modules ensemble :
-   gcc main.c etudiants.c profs.c laureats.c services.c fichiers.c logs.c -o ecole_app
-3. Lancer l'application :
-   ./ecole_app
-
 ## Auteurs
 Projet réalisé Hiba Karam en collaboration avec Tarek Souibri - Élèves Ingénieurs @ EMSI.
