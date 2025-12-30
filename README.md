@@ -47,4 +47,4 @@ Application complète de gestion universitaire développée en langage C. Ce pro
    ./ecole_app
 
 ## Auteurs
-Projet réalisé par Hiba Karam en collaboration avec Tarek Souibri.
+Projet réalisé Hiba Karam en collaboration avec Tarek Souibri - Élèves Ingénieurs @ EMSI.
