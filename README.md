@@ -40,4 +40,4 @@ Application complète de gestion universitaire développée en langage C. Ce pro
 * **logs.c/h :** Gestion de l'historique des événements système.
 
 ## Auteurs
-Projet réalisé Hiba Karam en collaboration avec Tarek Souibri - Élèves Ingénieurs @ EMSI.
+Projet réalisé par Hiba Karam en collaboration avec Tarek Souibri - Élèves Ingénieurs @ EMSI.
