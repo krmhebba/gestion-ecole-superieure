@@ -15,5 +15,5 @@ Application complète de gestion universitaire développée en langage C. Ce pro
 * **Logique métier :** etudiants.c/h : Logique métier pour les étudiants (pointeurs suivant et precedent). profs.c/h : Logique métier pour le corps professoral. laureats.c/h : Logique métier pour les lauréats. services.c/h : Logique métier pour les services de l'école.
 * **Gestion système :** fichiers.c/h : Gestion des entrées/sorties fichiers (I/O). logs.c/h : Gestion de l'historique des événements système.
 
-## Auteur(s)
+## Auteurs
 Projet réalisé par Hiba Karam en collaboration avec Tarek Souibri - Élèves Ingénieurs @ EMSI.
